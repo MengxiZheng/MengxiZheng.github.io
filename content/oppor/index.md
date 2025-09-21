@@ -13,17 +13,17 @@ sections:
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: oppor_lab.png
             filters:
               brightness: 0.7
-          position: right
+          position: center
           color: '#666'
       - title: World-Class Lab Space at Fulton Market
         content: 'Located in the vibrant Fulton Market neighborhood, Fulton Labs offers state-of-the-art resources and proximity to Chicago’s biotech and innovation ecosystem.'
         align: left
         background:
           image:
-            filename: Fultonlab1.png
+            filename: Fultonlab2.png
             filters:
               brightness: 0.7
           position: center
