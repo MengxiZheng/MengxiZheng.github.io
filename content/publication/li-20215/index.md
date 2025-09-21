@@ -2,7 +2,7 @@
 title: 5′-phosphorylation strengthens sticky-end cohesions
 authors:
 - Zhe Li
-- Mengxi Zheng
+- admin
 - Longfei Liu
 - Nadrian C Seeman
 - Chengde Mao

@@ -3,7 +3,7 @@ title: Making engineered 3D DNA crystals robust
 authors:
 - Zhe Li
 - Longfei Liu
-- Mengxi Zheng
+- admin
 - Jiemin Zhao
 - Nadrian C Seeman
 - Chengde Mao

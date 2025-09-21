@@ -2,7 +2,7 @@
 title: Patterning nanoparticles with DNA molds
 authors:
 - Longfei Liu
-- Mengxi Zheng
+- admin
 - Zhe Li
 - Qian Li
 - Chengde Mao

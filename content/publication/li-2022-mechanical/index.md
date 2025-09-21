@@ -2,7 +2,7 @@
 title: Mechanical deformation behaviors and structural properties of ligated DNA crystals
 authors:
 - Ruixin Li
-- Mengxi Zheng
+- admin
 - Anirudh S Madhvacharyula
 - Yancheng Du
 - Chengde Mao

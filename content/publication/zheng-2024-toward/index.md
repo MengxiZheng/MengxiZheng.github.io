@@ -2,7 +2,7 @@
 title: Toward Production of Nucleic Acid Nanostructures in Life Cells and Their Biomedical
   Applications
 authors:
-- Mengxi Zheng
+- admin
 - Victoria E Paluzzi
 - Cuizheng Zhang
 - Chengde Mao

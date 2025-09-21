@@ -4,7 +4,7 @@ authors:
 - Lifeng Zhou
 - Yanyu Xiong
 - Abhisek Dwivedy
-- Mengxi Zheng
+- admin
 - Laura Cooper
 - Skye Shepherd
 - Tingjie Song

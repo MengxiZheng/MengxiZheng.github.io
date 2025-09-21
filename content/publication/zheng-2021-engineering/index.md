@@ -1,7 +1,7 @@
 ---
 title: Engineering the nanoscaled morphologies of linear DNA homopolymers
 authors:
-- Mengxi Zheng
+- admin
 - Qian Li
 - Qian Li
 - Victoria E Paluzzi

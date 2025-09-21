@@ -2,7 +2,7 @@
 title: 'Kinetic DNA self-assembly: simultaneously co-folding complementary DNA strands
   into identical nanostructures'
 authors:
-- Mengxi Zheng
+- admin
 - Zhe Li
 - Longfei Liu
 - Mo Li

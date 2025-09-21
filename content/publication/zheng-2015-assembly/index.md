@@ -2,7 +2,7 @@
 title: 'Assembly of various degrees of interpenetration of Co-MOFs based on mononuclear
   or dinuclear cluster units: magnetic properties and gas adsorption'
 authors:
-- Meng-Xi Zheng
+- admin
 - Xiang-Jing Gao
 - Chuan-Lei Zhang
 - Ling Qin

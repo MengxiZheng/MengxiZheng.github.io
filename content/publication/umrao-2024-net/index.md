@@ -3,7 +3,7 @@ title: Net-shaped DNA nanostructure-based lateral flow assays for rapid and sens
   SARS-CoV-2 detection
 authors:
 - Saurabh Umrao
-- Mengxi Zheng
+- admin
 - Xiaohe Jin
 - Sherwood Yao
 - Xing Wang
