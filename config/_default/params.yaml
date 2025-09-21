@@ -6,11 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night:
+  theme_day: Rose
+  theme_night: Mr Robot
   font: native
   font_size: L
-  color: blue
 
 # SEO
 
