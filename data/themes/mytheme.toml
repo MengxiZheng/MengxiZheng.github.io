@@ -18,13 +18,13 @@ name = "mytheme"
 
 [dark]
   # Primary
-  primary = "#377EB8"
+  primary = "#E1F3FA"
 
   # Menu
-  menu_primary = "#333333"
+  menu_primary = "#244369"
   menu_text = "#E1F3FA"
-  menu_text_active = "#DC7369"
-  menu_title = "#FFFFFF"
+  menu_text_active = "#ffffff"
+  menu_title = "#E1F3FA"
 
   # Backgrounds
   background = "#1A1A1A"
