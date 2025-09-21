@@ -3,18 +3,18 @@ name = "mytheme"
 
 [light]
   # Primary
-  primary = "#377EB8"
+  primary = "#588BAF"
 
   # Menu
-  menu_primary = "#FFFFFF"
-  menu_text = "#333333"
-  menu_text_active = "#B23648"
-  menu_title = "#000000"
+  menu_primary = "#588BAF"
+  menu_text = "#ACD0EB"
+  menu_text_active = "#ffffff"
+  menu_title = "#ACD0EB"
 
   # Backgrounds
-  background = "#FFFFFF"
-  home_section_odd = "#F8EFB5"
-  home_section_even = "#E1F3FA"
+  background = "#ffffff"
+  home_section_odd = "#E4E9EC"
+  home_section_even = "#80817E"
 
 [dark]
   # Primary
