@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        Programmable DNA/RNA for Biosensing Technologies.
+        Programmable DNA/RNA Nanostructures for Biosensing Technologies.
   
   - block: collection
     content:
@@ -74,7 +74,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./people/" cta_text="Explore Opportunities →" %}}
     design:
       columns: '1'
 ---
