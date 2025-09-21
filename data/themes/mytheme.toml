@@ -3,8 +3,7 @@ name = "mytheme"
 
 [light]
   # Primary
-  primary = "#
-  b23648"
+  primary = "#b23648"
 
   # Menu
   menu_primary = "#B23648"
