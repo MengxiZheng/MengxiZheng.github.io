@@ -3,15 +3,30 @@ name = "mytheme"
 
 [light]
   # Primary
-  primary = "#b23648"
+  primary = "#377EB8"
 
   # Menu
-  menu_primary = "#B23648"
-  menu_text = "#C8CDCF"
-  menu_text_active = "#F8EFB5"
-  menu_title = "#377EB8"
+  menu_primary = "#FFFFFF"
+  menu_text = "#333333"
+  menu_text_active = "#B23648"
+  menu_title = "#000000"
 
   # Backgrounds
-  background = "#C8CDCF"
-  home_section_odd = "#E1F3FA"
-  home_section_even = "#C8EBCD"
+  background = "#FFFFFF"
+  home_section_odd = "#F8EFB5"
+  home_section_even = "#E1F3FA"
+
+[dark]
+  # Primary
+  primary = "#377EB8"
+
+  # Menu
+  menu_primary = "#333333"
+  menu_text = "#E1F3FA"
+  menu_text_active = "#DC7369"
+  menu_title = "#FFFFFF"
+
+  # Backgrounds
+  background = "#1A1A1A"
+  home_section_odd = "#2A2A2A"
+  home_section_even = "#333333"
