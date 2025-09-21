@@ -12,7 +12,7 @@ sections:
         We welcome discussions and collaborations in the areas of DNA/RNA nanotechnology and biosensing. 
         Prospective graduate students are encouraged to reach out for opportunities to join the lab.
       email: mzheng23@illinoistech.edu
-      Lab address:
+      Address:
         street: 400 N. Aberdeen, Fulton Market
         city: Chicago
         region: IL
@@ -22,7 +22,9 @@ sections:
       coordinates:
         latitude: '41.889217'
         longitude: '-87.655074'
-      Campus address:
+  - block: contact
+    content:
+      Address:
         street: 3105 S Dearborn St, Robert A. Pritzker Science Center
         city: Chicago
         region: IL
