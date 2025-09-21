@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        The ZHENG
+        The ZHENG <br>
         Research Group
       image:
         filename: welcome.jpg
