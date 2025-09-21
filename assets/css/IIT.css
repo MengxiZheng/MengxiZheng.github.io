@@ -1,0 +1,36 @@
+/* Hugo Blox color theme: ILLINOIS TECH */
+:root{
+  /* Primary — Illinois Tech Red (Pantone 186C, HEX #CC0000) */
+  --hb-primary-50-rgb: 255 240 240;   /* #FFF0F0 */
+  --hb-primary-100-rgb: 255 224 224;  /* #FFE0E0 */
+  --hb-primary-200-rgb: 254 200 200;  /* #FEC8C8 */
+  --hb-primary-300-rgb: 252 160 160;  /* #FCA0A0 */
+  --hb-primary-400-rgb: 246 120 120;  /* #F67878 */
+  --hb-primary-500-rgb: 204 0 0;      /* #CC0000 — 官方红 */
+  --hb-primary-600-rgb: 180 0 0;      /* #B40000 */
+  --hb-primary-700-rgb: 156 0 0;      /* #9C0000 */
+  --hb-primary-800-rgb: 132 0 0;      /* #840000 */
+  --hb-primary-900-rgb: 102 0 0;      /* #660000 */
+  --hb-primary-950-rgb: 64 0 0;       /* #400000 */
+
+  /* Secondary — Illinois Tech Gray (Cool Gray 9, HEX #76777B) */
+  --hb-secondary-50-rgb: 245 246 247; /* #F5F6F7 */
+  --hb-secondary-100-rgb: 232 233 235;/* #E8E9EB */
+  --hb-secondary-200-rgb: 212 214 217;/* #D4D6D9 */
+  --hb-secondary-300-rgb: 189 191 195;/* #BDBFC3 */
+  --hb-secondary-400-rgb: 158 160 165;/* #9EA0A5 */
+  --hb-secondary-500-rgb: 118 119 123;/* #76777B — 官方灰 */
+  --hb-secondary-600-rgb: 96 97 101;  /* #606165 */
+  --hb-secondary-700-rgb: 78 79 83;   /* #4E4F53 */
+  --hb-secondary-800-rgb: 60 61 64;   /* #3C3D40 */
+  --hb-secondary-900-rgb: 43 44 47;   /* #2B2C2F */
+  --hb-secondary-950-rgb: 28 29 31;   /* #1C1D1F */
+
+  /* Neutrals */
+  --hb-black-rgb: 0 0 0;              /* #000000 — 官方黑 */
+  --hb-white-rgb: 255 255 255;        /* #FFFFFF */
+
+  /* Semantic hooks */
+  --hb-link-rgb: 204 0 0;             /* 链接用 IIT 红 */
+  --hb-focus-ring-rgb: 246 120 120;   /* 焦点高亮，较浅的红 */
+}
