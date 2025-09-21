@@ -74,7 +74,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Explore Opportunities →" %}}
+        {{% cta cta_link="./oppor/" cta_text="Explore Opportunities →" %}}
     design:
       columns: '1'
 ---
