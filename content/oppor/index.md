@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: oppor_lab.png
+            filename: lab.png
             filters:
               brightness: 0.7
           position: center
