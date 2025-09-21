@@ -3,6 +3,7 @@ title: Launch of the Mengxi Zheng Nanotechnology Lab
 date: 2025-09-19
 image:
   focal_point: 'top'
+authors: Mengxi Zheng
 ---
 
 We are excited to announce the launch of the **Mengxi Zheng Lab** at Fulton Labs, Illinois Institute of Technology.  
