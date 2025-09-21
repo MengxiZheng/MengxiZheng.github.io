@@ -2,16 +2,16 @@
 name = "IIT"
 
 [light]
-  # Primary (点缀色，用于按钮、高亮)
+  # Primary
   primary = "#CC0000"
 
   # Menu
-  menu_primary = "#FFFFFF"      # 顶栏背景白
-  menu_text = "#333333"         # 普通文字深灰
-  menu_text_active = "#CC0000"  # 激活/悬停时红
-  menu_title = "#000000"        # Logo/标题黑色
+  menu_primary = "#FFFFFF"
+  menu_text = "#333333"
+  menu_text_active = "#CC0000"
+  menu_title = "#000000"
 
   # Backgrounds
-  background = "#FFFFFF"        # 页面背景白
-  home_section_odd = "#F8F8F8"  # 浅灰，分隔区块
-  home_section_even = "#FFFFFF" # 白，保持清爽
+  background = "#FFFFFF"
+  home_section_odd = "#F8F8F8"
+  home_section_even = "#FFFFFF"
