@@ -40,7 +40,8 @@ sections:
     content:
       title:
       subtitle: ''
-      text:
+      text: |
+       {{% cta cta_link="./oppor/" cta_text="Explore Opportunities →" %}}
     design:
       columns: '1'
       background:
@@ -55,6 +56,7 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
+
 
   - block: collection
     content:
@@ -74,7 +76,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./oppor/" cta_text="Explore Opportunities →" %}}
+        {{% cta cta_link="./publication/" cta_text="See all publications →" %}}
     design:
       columns: '1'
 ---
