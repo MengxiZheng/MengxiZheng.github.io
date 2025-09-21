@@ -23,7 +23,7 @@ sections:
         align: left
         background:
           image:
-            filename: Fultonlab2.png
+            filename: Fultonlab2.jpg
             filters:
               brightness: 0.7
           position: center
