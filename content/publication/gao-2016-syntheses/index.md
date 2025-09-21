@@ -3,7 +3,7 @@ title: Syntheses, Structures, and Properties of Four Metal--Organic Frameworks B
   on a N-Centered Multidentate Pyridine-Carboxylate Bifunctional Ligand
 authors:
 - Xiangjing Gao
-- Mengxi Zheng
+- admin
 - Ling Qin
 - Kang Shen
 - Hegen Zheng
