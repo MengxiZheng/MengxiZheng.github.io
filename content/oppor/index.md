@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+        content: Founded in 2025, our group is a young and dynamic lab advancing programmable DNA/RNA nanostructures for biosensing technologies.
         align: center
         background:
           image:
@@ -18,8 +18,8 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: World-Class Lab Space at Fulton Market
+        content: 'Located in the vibrant Fulton Market neighborhood, Fulton Labs offers state-of-the-art resources and proximity to Chicago’s biotech and innovation ecosystem.'
         align: left
         background:
           image:
@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Opportunities at Illinois Tech
+        content: 'As a student at IIT, you’ll study in a world-class city with unique research resources, diverse cultural experiences, and direct connections to leading employers.'
         align: right
         background:
           image:

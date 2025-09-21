@@ -22,18 +22,6 @@ sections:
       coordinates:
         latitude: '41.889217'
         longitude: '-87.655074'
-  - block: contact
-    content:
-      Address:
-        street: 3105 S Dearborn St, Robert A. Pritzker Science Center
-        city: Chicago
-        region: IL
-        postcode: '60616'
-        country: United States
-        country_code: US
-      coordinates:
-        latitude: '41.837788'
-        longitude: '-87.627695'
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
@@ -44,13 +32,13 @@ sections:
       autolink: true
     
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
+#      form:
+#        provider: netlify
+#        formspree:
+#          id:
+#        netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+#          captcha: false
     design:
       columns: '1'
 

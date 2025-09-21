@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        Programmable DNA/RNA Nanostructures for Biosensing Technologies.
+        Established in 2025, the Mengxi Zheng Lab at Illinois Tech focuses on programmable DNA/RNA technologies for biosensing and diagnostics.
   
   - block: collection
     content:
