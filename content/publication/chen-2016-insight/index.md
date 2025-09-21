@@ -4,7 +4,7 @@ title: Insight into the effects of modifying $π$-bridges on the performance of 
 authors:
 - Shuguang Chen
 - Hailang Jia
-- Mengxi Zheng
+- admin
 - Kang Shen
 - Hegen Zheng
 date: '2016-01-01'
