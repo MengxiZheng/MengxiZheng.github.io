@@ -3,7 +3,7 @@ name = "mytheme"
 
 [light]
   # Primary
-  primary = "#588BAF"
+  primary = "#244369"
 
   # Menu
   menu_primary = "#588BAF"
@@ -14,7 +14,7 @@ name = "mytheme"
   # Backgrounds
   background = "#ffffff"
   home_section_odd = "#E4E9EC"
-  home_section_even = "#80817E"
+  home_section_even = "#ebebebff"
 
 [dark]
   # Primary
