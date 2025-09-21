@@ -23,7 +23,7 @@ sections:
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: Fultonlab1.png
             filters:
               brightness: 0.7
           position: center
@@ -33,7 +33,7 @@ sections:
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: IIT.webp
             filters:
               brightness: 0.5
           position: center
