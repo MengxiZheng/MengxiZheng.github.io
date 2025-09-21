@@ -28,6 +28,11 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
+        link:
+          icon: building-circle-arrow-right
+          icon_pack: fas
+          text: Visit Fulton Lab
+          url: https://fultonlabs.com/
       - title: Opportunities at Illinois Tech
         content: 'As a student at IIT, you’ll study in a world-class city with unique research resources, diverse cultural experiences, and direct connections to leading employers.'
         align: right
@@ -45,7 +50,7 @@ sections:
           url: https://www.iit.edu/admissions-aid/graduate-admission
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
+      slide_height: 500 px
       is_fullscreen: true
       # Automatically transition through slides?
       loop: false
