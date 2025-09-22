@@ -18,12 +18,13 @@ organizations:
     url: 'https://www.iit.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the design of programmable DNA/RNA nanostructures, biosensing and early diagnostic technologies.
+bio: Expert in designing dynamic nucleic acid nanostructures.
 
 interests:
-  - Programmable DNA/RNA nanostructures
-  - Biosensing and early diagnostic technologies
-  - In-vivo expression of nanosturctures
+  - Programmable nucleic acid materials for biomedical applications
+  - Real-time molecular detection
+  - Non-invasive early diagnostic technologies
+  - Computational modeling, simulation, and design of biomolecular systems
 
 education:
   courses:
@@ -66,4 +67,4 @@ user_groups:
   - Principal Investigators
 ---
 
-**Mengxi Zheng** is an Assistant Professor of Chemistry at the Illinois Institute of Technology. Her research focuses on the design of programmable DNA and RNA nanostructures for biosensing and early diagnostic technologies. Her published work has centered on developing practical and scalable DNA/RNA nanostructures, as well as the construction of functional DNA-based materials.
+**Mengxi Zheng** is an Assistant Professor of Chemistry at the Illinois Institute of Technology. Her research centers on engineering functional DNA/RNA architectures for biosensing and therapeutic applications. Her published work highlights the constructions of practical and scalable nucleic acid nanostructures, as well as the engineering of responsive DNA-based materials.

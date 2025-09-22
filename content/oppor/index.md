@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: 👋 Welcome to the group
-        content: Founded in 2025, our group is a young and dynamic lab advancing programmable DNA/RNA nanostructures for biosensing technologies.
+        content: Founded in 2025, our group is a young and dynamic lab advancing programmable DNA/RNA nanotechnologies for molecular design, biosensing, and beyond.
         align: right
         background:
           image:

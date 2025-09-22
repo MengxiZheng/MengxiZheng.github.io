@@ -5,7 +5,7 @@ image:
   focal_point: 'top'
 ---
 
-We are excited to announce the launch of the **Mengxi Zheng Lab** at Fulton Labs, Illinois Institute of Technology.  
+We are excited to announce the launch of the **Mengxi Zheng Lab** in the Department of Chemistry at Illinois Institute of Technology, located at Fulton Labs in Chicago.
 Our group focuses on programmable DNA and RNA nanostructures for biosensing and diagnostic technologies.  
 
 <!--more-->

@@ -9,8 +9,8 @@ sections:
     content:
       title: Contact
       text: |-
-        We welcome discussions and collaborations in the areas of DNA/RNA nanotechnology and biosensing. 
-        Prospective graduate students are encouraged to reach out for opportunities to join the lab.
+        Our group engineers programmable biomolecular devices to address challenges in biosensing, diagnostics, and molecular medicine. We also welcome students from diverse backgrounds to bring new perspectives to our interdisciplinary research.
+        Prospective graduate students are encouraged to reach out with your CV and a brief research statement for opportunities to join the lab.
       email: mzheng23@illinoistech.edu
       Address:
         street: 400 N. Aberdeen, Fulton Market
