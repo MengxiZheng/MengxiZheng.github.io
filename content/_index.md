@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        The ZHENG <br>
-        Research Group
+        Welcome to  <br>
+        ZHENG Research Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        Established in 2025, the Zheng Lab at Illinois Tech develops programmable nucleic acid nanotechnologies for molecular sensing and smart diagnostics.
+        Established in 2025, the Zheng Research Lab at Illinois Tech develops programmable nucleic acid nanotechnologies for molecular sensing and smart diagnostics.
   
   - block: collection
     content:
