@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        Established in 2025, the Zheng Lab at Illinois Tech focuses on programmable DNA/RNA technologies for biosensing and diagnostics.
+        Established in 2025, the Zheng Lab at Illinois Tech focuses on programmable DNA/RNA nanotechnologies for biosensing and diagnostics.
   
   - block: collection
     content:
