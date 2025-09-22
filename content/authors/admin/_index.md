@@ -18,7 +18,7 @@ organizations:
     url: 'https://www.iit.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Expert in designing dynamic nucleic acid nanostructures.
+bio: Focused on the design of dynamic nucleic acid nanostructures for cutting-edge applications.
 
 interests:
   - Programmable nucleic acid materials for biomedical applications
@@ -67,4 +67,4 @@ user_groups:
   - Principal Investigators
 ---
 
-**Mengxi Zheng** is an Assistant Professor of Chemistry at the Illinois Institute of Technology. Her research centers on engineering functional DNA/RNA architectures for biosensing and therapeutic applications. Her published work highlights the constructions of practical and scalable nucleic acid nanostructures, as well as the engineering of responsive DNA-based materials.
+**Mengxi Zheng** is an Assistant Professor of Chemistry at the Illinois Institute of Technology. Her research centers on designing functional DNA/RNA architectures for biosensing and therapeutic applications. Her published work highlights the construction of practical and scalable nucleic acid nanostructures, as well as the engineering of responsive DNA-based materials.
