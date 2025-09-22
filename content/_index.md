@@ -39,9 +39,13 @@ sections:
   - block: markdown
     content:
       title:
-      subtitle: ''
+      subtitle:
       text: |
-       {{% cta cta_link="./oppor/" cta_text="Explore Opportunities →" %}}
+        {{< cta cta_text="Explore Opportunities" cta_link="./oppor/" cta_new_tab="false" cta_alt_text="Meet with Mengxi" cta_alt_link="./people/" cta_alt_new_tab="false" >}}
+    design:
+      columns: '1'
+
+  - block: markdown
     design:
       columns: '1'
       background:
@@ -69,14 +73,5 @@ sections:
         publication_type: 
     design:
       view: citation
-      columns: '1'
-
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./publication/" cta_text="See all publications →" %}}
-    design:
       columns: '1'
 ---
