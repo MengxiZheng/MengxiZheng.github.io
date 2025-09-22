@@ -9,8 +9,9 @@ sections:
     content:
       title: Contact
       text: |-
-        Our group engineers programmable biomolecular devices to address challenges in biosensing, diagnostics, and molecular medicine. We also welcome students from diverse backgrounds to bring new perspectives to our interdisciplinary research.
-        Prospective graduate students are encouraged to reach out with your CV and a brief research statement for opportunities to join the lab.
+        Our group engineers programmable biomolecular devices to address challenges in biosensing, diagnostics, and molecular medicine. <br>
+        We value creativity, rigor, and curiosity, and we welcome students from diverse academic backgrounds to bring new perspectives to our interdisciplinary work.<br>
+        Prospective graduate students are encouraged to reach out with a CV and a brief research statement for opportunities to join the lab.
       email: mzheng23@illinoistech.edu
       Address:
         street: 400 N. Aberdeen, Fulton Market
